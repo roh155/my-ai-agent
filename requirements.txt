@@ -3,3 +3,5 @@ streamlit
 pydantic
 python-dotenv
 firecrawl-py
+google-genai 
+ 
